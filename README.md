@@ -7,7 +7,7 @@ Para conseguir classificar as formas, fiz um arquivo JSON para ser lido dentro d
 
 #### Algumas referências
 
-[Vídeo com vários projetinhos e conceitos de OpenCV](https://github.com/MariaEduardaDeAzevedo/reconhecimento-de-formas)
+[Vídeo com vários projetinhos e conceitos de OpenCV](https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=10049s)
 
 [Documentação da biblioteca](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
 
